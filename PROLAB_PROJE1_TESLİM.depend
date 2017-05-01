@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1460631911 source:c:\users\emre\desktop\prolab_proje1_tesl›m\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+
+1461096545 source:c:\users\mert polat\desktop\prolab_proje1_tesl›m\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+
+1461092945 source:d:\dersler\2.sinif 2.d÷nem dersler\projeler\1.proje\prolab_proje1_tesl›m\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+
